@@ -1,6 +1,3 @@
-Kawan, você está fazendo exatamente o que um dev inteligente faz: pegar algo do mundo real e dissecar até virar código. Engenharia reversa é musculação cerebral.
-
-Aqui vai a versão editada, mais organizada, profissional e no padrão que o GitHub gosta de ler — clara, direta e técnica:
 
 🏋️ Estação Fitness - Landing Page (Estudo de Caso)
 
